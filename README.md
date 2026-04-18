@@ -91,20 +91,6 @@ func main() {
 
 ---
 
-### 📊 Signal
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alginthomas&show_icons=true&count_private=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=0d1117" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=alginthomas&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=f59e0b&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alginthomas&layout=compact&hide_border=true&title_color=00ADD8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=alginthomas&theme=github-compact&bg_color=0d1117&color=00ADD8&line=00ADD8&point=f59e0b&hide_border=true&area=true" />
-
-</div>
-
----
-
 ### 👾 Pac-Man eating my contributions
 
 <div align="center">
