@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&duration=2600&color=00ADD8&background=0D111700&center=true&vCenter=true&multiline=true&width=760&height=90&lines=%F0%9F%9A%80+backend+engineer+%C2%B7+designer+%C2%B7+tinkerer;%E2%9C%A8+I+make+software+that+doesn't+suck" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&duration=2600&color=00ADD8&background=0D111700&center=true&vCenter=true&multiline=true&width=760&height=90&lines=%F0%9F%9A%80+AI+Product+Designer;%E2%9C%A8+I+make+software+that+doesn't+suck" />
 
 <br>
 
