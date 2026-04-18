@@ -105,10 +105,10 @@ func main() {
 
 ---
 
-### 🐍 Contribution snake
+### 👾 Pac-Man eating my contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alginthomas/alginthomas/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/alginthomas/alginthomas/output/pacman-contribution-graph.svg" />
 </div>
 
 ---
