@@ -24,6 +24,12 @@
 <img src="https://img.shields.io/github/followers/alginthomas?label=followers&style=flat-square&color=A78BFA&labelColor=0d1117" />
 <img src="https://img.shields.io/github/stars/alginthomas?label=stars&style=flat-square&color=FFD93D&labelColor=0d1117" />
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/alginthomas/alginthomas/output/pacman-contribution-graph.svg" alt="Pac-Man chasing through my contribution graph" />
+
+<sub><i>Pac-Man eats my commits every 12h · powered by GitHub Actions</i></sub>
+
 </div>
 
 <br>
@@ -155,18 +161,6 @@ Custom MCP servers that teach Claude a product's grammar — components, pattern
 </td>
 </tr>
 </table>
-
-<br>
-
-## &nbsp;·&nbsp; contribution graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/alginthomas/alginthomas/output/pacman-contribution-graph.svg" alt="Pac-Man chasing through my contribution graph" />
-
-<sub><i>regenerated every 12h via GitHub Actions</i></sub>
-
-</div>
 
 <br>
 
