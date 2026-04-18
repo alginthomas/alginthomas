@@ -1,113 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=algin%20thomas&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Go%20%E2%80%A2%20Postgres%20%E2%80%A2%20Claude%20Code%20%E2%80%A2%20Figma&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=160&section=header&text=algin%20thomas&fontSize=56&fontColor=00ADD8&fontAlignY=50&desc=backend%20%E2%80%A2%20data%20%E2%80%A2%20design%20%E2%80%A2%20agentic%20tooling&descAlignY=75&descSize=14&descColor=8b949e" width="100%"/>
 
-<a href="https://github.com/alginthomas">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00ADD8&center=true&vCenter=true&width=760&lines=Designing+systems%2C+not+just+screens.;Writing+Go+that+boots+fast+and+fails+loud.;Shipping+Postgres+schemas+that+outlive+the+code.;Pair-programming+with+Claude+Code+daily." />
-</a>
+<br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=alginthomas&label=visitors&color=00ADD8&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/alginthomas?label=followers&style=for-the-badge&color=00ADD8&labelColor=0d1117" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&height=36&lines=%24+whoami;builds+in+Go%2C+thinks+in+Postgres%2C+designs+in+Figma.;ships+with+Claude+Code.;prompt+discipline+%3E+prompt+creativity." />
+
+<br><br>
+
+<a href="https://github.com/alginthomas"><img src="https://img.shields.io/badge/-@alginthomas-0d1117?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=0d1117" /></a>
+<a href="mailto:alginthomas.work@gmail.com"><img src="https://img.shields.io/badge/-alginthomas.work%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=alginthomas&label=views&color=00ADD8&style=flat-square&labelColor=0d1117" />
 
 </div>
 
----
-
-### ~/whoami
+<br>
 
 ```go
+// ~/whoami — what you'd find if you greeted the terminal
+
 package main
 
 type Engineer struct {
-    Name       string
     Focus      []string
-    Stack      Stack
-    Philosophy string
+    DailyTools []string
+    Principles []string
 }
 
-func main() {
-    me := Engineer{
-        Name:  "Algin Thomas",
-        Focus: []string{"backend systems", "design systems", "developer tooling"},
-        Stack: Stack{
-            Languages: []string{"Go", "TypeScript", "SQL"},
-            Data:      []string{"Postgres", "pgvector", "Redis"},
-            Frontend:  []string{"React", "Next.js", "Tailwind"},
-            Design:    []string{"Figma", "Figma Variables", "Auto-layout"},
-            AI:        []string{"Claude Code", "Claude API", "MCP servers"},
-        },
-        Philosophy: "strong types at the edge, dumb code in the middle, honest SQL at the core",
-    }
-    _ = me
+var me = Engineer{
+    Focus: []string{
+        "backend systems in Go",
+        "Postgres that outlives the code above it",
+        "design systems wired from Figma to production",
+        "agentic developer tooling with Claude Code",
+    },
+    DailyTools: []string{"Go", "Postgres", "TypeScript", "Figma", "Claude Code"},
+    Principles: []string{
+        "strong types at the edge, dumb code in the middle, honest SQL at the core",
+        "a schema is a contract; a migration is a promise",
+        "design tokens are code — treat them like it",
+        "if a prompt isn't versioned, it's not engineering",
+    },
 }
 ```
 
----
+<br>
 
-### 🧰 The Stack I Actually Ship With
+## &nbsp;·&nbsp; stack
 
 <table>
 <tr>
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
 
-**Backend — Go**
-- `net/http` + `chi` over frameworks
-- `sqlc` for typed queries
-- `pgx` pool, no ORM bloat
-- `golangci-lint`, `go test -race`
-- structured `slog` everywhere
+### Backend &mdash; Go
 
-  </td>
-  <td valign="top" width="33%">
-
-**Data — Postgres**
-- schema-first, migrations via `goose`
-- `EXPLAIN (ANALYZE, BUFFERS)` before indexes
-- `jsonb` where it earns its keep
-- row-level security, not app-level
-- `pgvector` for embeddings
+```txt
+net/http + chi     routing w/o ceremony
+sqlc               typed queries, no ORM
+pgx                connection pool, ctx-aware
+slog               structured logging everywhere
+golangci-lint      non-negotiable in CI
+go test -race      the only acceptable test run
+```
 
   </td>
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
 
-**Design — Figma**
-- tokens → variables → code
-- auto-layout-first components
-- Code Connect for handoff
-- variants mirror component props
-- dev-mode as the contract
+### Data &mdash; Postgres
+
+```txt
+goose              schema-first migrations
+EXPLAIN ANALYZE    before every index
+jsonb              where it earns its keep
+row-level security app-level authz is a smell
+pgvector           embeddings, fast recall
+logical replication  zero-downtime cutovers
+```
+
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="50%">
+
+### Design &mdash; Figma
+
+```txt
+variables          single source of truth
+auto-layout        components that respect reality
+Code Connect       Figma ↔ prop parity
+variants           mirror component state
+dev mode           the handoff contract
+tokens → CSS vars  no hand-translated hex
+```
+
+  </td>
+  <td valign="top" width="50%">
+
+### AI &mdash; Claude Code
+
+```txt
+claude code        pair programmer, daily driver
+subagents          parallel work, bounded context
+MCP servers        domain-specific tools, wired in
+slash commands     repeatable workflows as code
+hooks              guardrails, never afterthoughts
+prompts as code    reviewed, versioned, tested
+```
 
   </td>
 </tr>
 </table>
 
-**AI workflow:** Claude Code as the daily driver — custom slash commands, hooks, and MCP servers wired into my repos. I treat prompts like code: versioned, reviewed, tested.
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,postgres,ts,react,nextjs,tailwind,figma,docker,redis,linux,vim,git&perline=12" />
-</p>
+## &nbsp;·&nbsp; now
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 👾 Pac-Man eating my contributions
+**shipping**
+
+Postgres-backed dashboards with deep hierarchical drill-downs — rendered in React, backed by a Go API that does the heavy aggregation in SQL, not in application code.
+
+</td>
+<td width="50%" valign="top">
+
+**refining**
+
+A Figma → React pipeline where variables become typed design tokens, and Code Connect keeps the mapping honest. No more designer–engineer translation loss.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**exploring**
+
+Custom MCP servers that teach Claude Code a codebase's grammar — domain models, schema conventions, review patterns — so it operates as a member of the team, not a tourist.
+
+</td>
+<td width="50%" valign="top">
+
+**reading**
+
+*Designing Data-Intensive Applications* — Kleppmann. Again. Every read surfaces a mistake I've already made in production.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## &nbsp;·&nbsp; contribution graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alginthomas/alginthomas/output/pacman-contribution-graph.svg" />
+
+<img src="https://raw.githubusercontent.com/alginthomas/alginthomas/output/pacman-contribution-graph.svg" alt="Pac-Man chasing through my contribution graph" />
+
+<sub><i>regenerated every 12h via GitHub Actions</i></sub>
+
 </div>
 
----
-
-### 🧭 Currently
-
-- **Building** Postgres-backed dashboards with drill-down hierarchies
-- **Refining** a Figma → React token pipeline that doesn't lie
-- **Exploring** MCP servers to make Claude Code fluent in domain-specific tools
-- **Reading** *Designing Data-Intensive Applications* — again
-
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <sub>designed and shipped by <a href="https://github.com/alginthomas"><b>@alginthomas</b></a> &nbsp;·&nbsp; <code>v2026.04</code></sub>
 </div>
