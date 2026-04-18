@@ -1,16 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=160&section=header&text=algin%20thomas&fontSize=56&fontColor=00ADD8&fontAlignY=50&desc=backend%20%E2%80%A2%20data%20%E2%80%A2%20design%20%E2%80%A2%20agentic%20tooling&descAlignY=75&descSize=14&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:A78BFA,100:FFD93D&height=220&section=header&text=hey,%20I'm%20algin%20%F0%9F%91%8B&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=I%20break%20things%20with%20Go,%20fix%20them%20with%20Postgres,%20and%20make%20them%20pretty%20in%20Figma.&descAlignY=60&descSize=15&descColor=f0f6fc&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&height=36&lines=%24+whoami;builds+in+Go%2C+thinks+in+Postgres%2C+designs+in+Figma.;ships+with+Claude+Code.;prompt+discipline+%3E+prompt+creativity." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&duration=2600&color=00ADD8&background=0D111700&center=true&vCenter=true&multiline=true&width=760&height=90&lines=%F0%9F%9A%80+backend+engineer+%C2%B7+designer+%C2%B7+tinkerer;%E2%9C%A8+I+make+software+that+doesn't+suck" />
+
+<br>
+
+<kbd>&nbsp;🛠️&nbsp; currently building agentic dev tools &nbsp;</kbd>
+&nbsp;&nbsp;
+<kbd>&nbsp;☕ &nbsp;fueled by caffeine &nbsp;</kbd>
+&nbsp;&nbsp;
+<kbd>&nbsp;📍 &nbsp;Bengaluru, IN &nbsp;</kbd>
 
 <br><br>
 
-<a href="https://github.com/alginthomas"><img src="https://img.shields.io/badge/-@alginthomas-0d1117?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=0d1117" /></a>
-<a href="mailto:alginthomas.work@gmail.com"><img src="https://img.shields.io/badge/-alginthomas.work%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=alginthomas&label=views&color=00ADD8&style=flat-square&labelColor=0d1117" />
+<a href="https://github.com/alginthomas"><img src="https://img.shields.io/badge/GitHub-@alginthomas-00ADD8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:alginthomas.work@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-email-FFD93D?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/algin-thomas-85991429b"><img src="https://img.shields.io/badge/LinkedIn-connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=alginthomas&label=profile%20views&color=00ADD8&style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/alginthomas?label=followers&style=flat-square&color=A78BFA&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/alginthomas?label=stars&style=flat-square&color=FFD93D&labelColor=0d1117" />
 
 </div>
 
